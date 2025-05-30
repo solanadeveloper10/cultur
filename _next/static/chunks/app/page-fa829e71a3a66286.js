@@ -597,7 +597,7 @@
                           title: "DEXTools Trading Chart",
                           width: "1200",
                           height: "500",
-                          src: "https://www.dextools.io/widget-chart/en/ether/pe-light/0xb47b71dc61025a80daecf8c922d66700d1e63a57?theme=dark&chartType=1&chartResolution=1&drawingToolbars=false",
+                          src: "https://www.dextools.io/app/en/solana/pair-explorer/GWPLjamb5ZxrGbTsYNWW7V3p1pAMryZSfaPFTdaEsWgC?t=1748610634856",
                         }),
                       }),
                     ],
@@ -624,17 +624,17 @@
                           (0, a.jsx)(p, {
                             title: "Step 1: Connect your wallet",
                             content:
-                              "Connect your Web3 wallet such as MetaMask, Trust Wallet, or Phantom Wallet.",
+                              "Connect your Web3 wallet such as MetaMask, or Phantom Wallet.",
                           }),
                           (0, a.jsx)(p, {
                             title: "Step 2: Ensure You Have Funds",
                             content:
-                              "Ensure you have Ethereum (ETH) in your Web3 wallet. You can purchase ETH directly through your MetaMask wallet using the ‘Buy’ option or from exchanges like Coinbase.",
+                              "Ensure you have Solana (SOL) in your Web3 wallet. You can purchase ETH directly through your Phantom wallet using the ‘Buy’ option or from exchanges.",
                           }),
                           (0, a.jsx)(p, {
-                            title: "Step 3: Swap for $tophat",
+                            title: "Step 3: Swap for $TOPHAT",
                             content:
-                              "Once your wallet is connected, use the Uniswap interface. Enter the $tophat contract address (available at the top of this page) to ensure you select the correct token. Set slippage to “Auto” to facilitate the swap. Swap your ETH for $tophat.",
+                              "Once your wallet is connected, use the jupiter interface. Enter the $tophat contract address (available at the top of this page) to ensure you select the correct token. Set slippage to “Auto” to facilitate the swap. Swap your SOL for $TOPHAT.",
                           }),
                           (0, a.jsx)(p, {
                             title: "Step 4: Confirm the Transaction",
