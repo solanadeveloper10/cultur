@@ -18,7 +18,7 @@
         i = s(6179),
         n = s(7818),
         c = s(6044);
-      let o = "0x6cb25129314123BCD5aDCdc844cEaEEAd65A0896",
+      let o = "BGhe16s9ttjx1VP5xaRwRcaYkTN2T9mWAHGTUnRPpump",
         x = (0, n.default)(
           () => Promise.all([s.e(479), s.e(186)]).then(s.bind(s, 4186)),
           { loadableGenerated: { webpack: () => [4186] }, ssr: !1 }
