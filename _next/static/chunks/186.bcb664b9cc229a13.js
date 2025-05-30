@@ -211,11 +211,11 @@
               children: [
                 (0, r.jsx)("h1", {
                   className: "capitalize font-luckiestGuy text-5xl",
-                  children: "Join The cultur",
+                  children: "Join The tophat",
                 }),
                 (0, r.jsx)("div", {
                   className: "font-poppins text-xl",
-                  children: "Add Mr. E to your PFP!",
+                  children: "Add Mr. Tophat to your PFP!",
                 }),
                 (0, r.jsx)(d, {
                   onClick: () => {
@@ -311,7 +311,7 @@
                             m(e);
                           }, 100);
                       },
-                      children: "Add MR. E",
+                      children: "Add Mr. Tophat",
                     }),
                     (0, r.jsxs)("div", {
                       className: "flex gap-2",
@@ -332,7 +332,7 @@
                                       setTimeout(() => {
                                         var t, n, r;
                                         (t = e.toDataURL()),
-                                          (n = "cultur.png"),
+                                          (n = "tophat.png"),
                                           ((r =
                                             document.createElement(
                                               "a"

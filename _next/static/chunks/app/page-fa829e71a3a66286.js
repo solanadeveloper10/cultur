@@ -235,7 +235,7 @@
                   className: "flex items-center gap-1",
                   children: [
                     (0, a.jsx)("a", {
-                      href: "https://x.com/CulturCoinPJ",
+                      href: "https://x.com/tophatCoinPJ",
                       target: "_blank",
                       children: (0, a.jsx)("img", {
                         src: "icons/x.png",
@@ -244,7 +244,7 @@
                       }),
                     }),
                     (0, a.jsx)("a", {
-                      href: "https://t.me/CulturCoin",
+                      href: "https://t.me/tophatCoin",
                       target: "_blank",
                       children: (0, a.jsx)("img", {
                         src: "icons/tg.png",
@@ -262,7 +262,7 @@
                       }),
                     }),
                     (0, a.jsx)("a", {
-                      href: "https://x.com/CulturCoinPJ",
+                      href: "https://x.com/tophatCoinPJ",
                       target: "_blank",
                       children: (0, a.jsx)("img", {
                         src: "icons/dexscrener.png",
@@ -345,11 +345,11 @@
                           "div",
                           {
                             children: v
-                              ? (0, a.jsx)("div", { children: "$cultur" })
+                              ? (0, a.jsx)("div", { children: "$tophat" })
                               : (0, a.jsx)("div", {
                                   className: "relative w-[133px] h-[32px]",
                                   children: (0, a.jsx)("span", {
-                                    children: "$cultur",
+                                    children: "$tophat",
                                   }),
                                 }),
                           },
@@ -369,7 +369,7 @@
                   children: (0, a.jsxs)("div", {
                     className: "max-w-[1200px]",
                     children: [
-                      (0, a.jsx)(u, { children: "What is cultur" }),
+                      (0, a.jsx)(u, { children: "What is tophat" }),
                       (0, a.jsx)("br", {}),
                       (0, a.jsxs)("div", {
                         className:
@@ -413,10 +413,10 @@
                           (0, a.jsxs)("p", {
                             className: "font-poppins w-96 text-xl px-4 md:px-0",
                             children: [
-                              "CULTUR aims to use the combination blockchain technology and multimedia to create a fun and exciting token that celebrates the culture behind the things we love the most; games, TV shows, films, characters, memes and much more!",
+                              "tophat aims to use the combination blockchain technology and multimedia to create a fun and exciting token that celebrates the tophate behind the things we love the most; games, TV shows, films, characters, memes and much more!",
                               (0, a.jsx)("br", {}),
                               (0, a.jsx)("br", {}),
-                              "Explore your favourite icons across time with Mr. E as our guide!",
+                              "Explore your favourite icons across time with Mr. Tophat as our guide!",
                             ],
                           }),
                         ],
@@ -424,7 +424,7 @@
                       (0, a.jsx)("br", {}),
                       (0, a.jsx)("br", {}),
                       (0, a.jsx)("br", {}),
-                      (0, a.jsx)(u, { children: "Who is Mr. e" }),
+                      (0, a.jsx)(u, { children: "Who is Mr. Tophat" }),
                       (0, a.jsx)("br", {}),
                       (0, a.jsx)("br", {}),
                       (0, a.jsxs)("div", {
@@ -435,13 +435,13 @@
                             className:
                               "font-poppins w-[357px] text-xl order-1 lg:order-2",
                             children: [
-                              "Mr. Entertain, also known as Mr. E, is our buoyant guide that can travel through time and space.",
+                              "Mr. Tophat, also known as Mr. Tophat, is our buoyant guide that can travel through time and space.",
                               (0, a.jsx)("br", {}),
                               (0, a.jsx)("br", {}),
                               "He uses that curiously mysterious third eye to see and experience any and all sorts of entertainment across time.",
                               (0, a.jsx)("br", {}),
                               (0, a.jsx)("br", {}),
-                              "Join Mr. E as he blasts through cyberspace! Who knows, you might even find him traversing into your favourite entertainment!",
+                              "Join Mr. Tophat as he blasts through cyberspace! Who knows, you might even find him traversing into your favourite entertainment!",
                             ],
                           }),
                           (0, a.jsx)("div", {
@@ -632,14 +632,14 @@
                               "Ensure you have Ethereum (ETH) in your Web3 wallet. You can purchase ETH directly through your MetaMask wallet using the ‘Buy’ option or from exchanges like Coinbase.",
                           }),
                           (0, a.jsx)(p, {
-                            title: "Step 3: Swap for $Cultur",
+                            title: "Step 3: Swap for $tophat",
                             content:
-                              "Once your wallet is connected, use the Uniswap interface. Enter the $CULTUR contract address (available at the top of this page) to ensure you select the correct token. Set slippage to “Auto” to facilitate the swap. Swap your ETH for $CULTUR.",
+                              "Once your wallet is connected, use the Uniswap interface. Enter the $tophat contract address (available at the top of this page) to ensure you select the correct token. Set slippage to “Auto” to facilitate the swap. Swap your ETH for $tophat.",
                           }),
                           (0, a.jsx)(p, {
                             title: "Step 4: Confirm the Transaction",
                             content:
-                              "Confirm the transaction in your Web3 wallet. Sign and approve the transaction. Your $CULTUR tokens will be processed and added to your wallet shortly.",
+                              "Confirm the transaction in your Web3 wallet. Sign and approve the transaction. Your $tophat tokens will be processed and added to your wallet shortly.",
                           }),
                         ],
                       }),
@@ -648,7 +648,7 @@
                         children:
                           D &&
                           (0, a.jsx)("iframe", {
-                            src: "https://app.uniswap.org/#/swap?exactField=input&exactAmount=10&outputCurrency=0x6cb25129314123BCD5aDCdc844cEaEEAd65A0896",
+                            src: "https://jup.ag/swap",
                             height: "660px",
                             width: "100%",
                             className: "w-auto lg:w-[475px]",
@@ -672,7 +672,7 @@
               children: (0, a.jsxs)("div", {
                 className: "max-w-[1200px] w-full p-2 lg:p-0",
                 children: [
-                  (0, a.jsx)(u, { children: "Join the cultur" }),
+                  (0, a.jsx)(u, { children: "Join the tophat" }),
                   (0, a.jsx)("br", {}),
                   (0, a.jsx)("br", {}),
                   (0, a.jsxs)("div", {
@@ -694,7 +694,7 @@
                           (0, a.jsx)("p", {
                             className: "font-poppins text-xl text-center",
                             children:
-                              "Join the CULTUR community by adding Mr. E to your PFP!",
+                              "Join the tophat community by adding Mr. Tophat to your PFP!",
                           }),
                           v
                             ? (0, a.jsx)("button", {
@@ -755,7 +755,7 @@
                             className: "flex justify-center gap-2",
                             children: [
                               (0, a.jsx)("a", {
-                                href: "https://x.com/CulturCoinPJ",
+                                href: "https://x.com/tophatCoinPJ",
                                 target: "_blank",
                                 children: (0, a.jsx)("img", {
                                   src: "/icons/x.png",
@@ -765,7 +765,7 @@
                                 }),
                               }),
                               (0, a.jsx)("a", {
-                                href: "https://t.me/CulturCoin",
+                                href: "https://t.me/tophatCoin",
                                 target: "_blank",
                                 children: (0, a.jsx)("img", {
                                   src: "/icons/tg.png",
@@ -785,7 +785,7 @@
             }),
             (0, a.jsx)("footer", {
               className: " font-poppins bg-primary text-center py-4",
-              children: "\xa9CULTUR 2024 - All Rights Reserved.",
+              children: "\xa9tophat 2025 - All Rights Reserved.",
             }),
           ],
         });
